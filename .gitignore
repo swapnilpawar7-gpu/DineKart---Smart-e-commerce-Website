@@ -1,0 +1,33 @@
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build and output directories
+target/
+build/
+out/
+
+# Java compiled files
+*.class
+*.war
+*.jar
+*.log
+
+# Temporary or swap files
+*.tmp
+*.swp
+*.cache
+
+# Node modules (if frontend tooling added later)
+node_modules/
+
+# Environment files (future-proofing)
+.env
+*.env
