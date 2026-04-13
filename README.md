@@ -103,27 +103,13 @@ http://localhost:8080/online-pizza-shopping
 
 ---
 
-## 🔒 Demo Credentials (If applicable)
+## 🔒 Demo Credentials
 
 Add your demo admin/user credentials here, for example:
 
-```
 Admin:
 username: admin
 password: admin123
-```
-
-Remove this section if not applicable.
-
----
-
-## 📸 Screenshots (Optional)
-
-Place screenshots in `/screenshots` or `/images` folder and reference like:
-
-```
-![Home Page](images/home-page.png)
-```
 
 ---
 
@@ -134,7 +120,7 @@ If open-sourcing publicly, choose a license such as MIT.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome.  
 For major changes, please open an issue first to discuss what you would like to change.
