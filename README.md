@@ -34,7 +34,7 @@ Admins can manage menu items, orders, and customer details.
 - JDBC
 
 **Database**
-- PostgreSQL (schema included in `/database/database.sql`)
+- MySQL (schema included in `/database/database.sql`)
 
 **Server**
 - Apache Tomcat
@@ -61,7 +61,7 @@ online-pizza-shopping/
 
 ## 🗄 Database Setup
 
-1. Install PostgreSQL
+1. Install MySQL
 2. Create database:
 
 ```sql
@@ -85,9 +85,9 @@ This will create the required tables for users, products, orders, and billing.
 ### Prerequisites
 - Java 8 or higher
 - Apache Tomcat 8.x or newer
-- PostgreSQL
+- MySQL
 - pgAdmin or psql CLI
-- PostgreSQL JDBC Driver (available in `WEB-INF/lib/`)
+- MySQL JDBC Driver (available in `WEB-INF/lib/`)
 
 ### Steps
 1. Clone the repository
