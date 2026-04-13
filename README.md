@@ -1,4 +1,4 @@
-# Online Pizza Shopping / DineKart (Java JSP Web App)
+# DineKart (Java JSP Web App)
 
 A web-based pizza ordering system built with JSP, HTML, Bootstrap, and JDBC.  
 Users can browse pizzas, add items to cart, place orders, and generate receipts.  
